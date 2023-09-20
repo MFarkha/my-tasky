@@ -7,7 +7,7 @@ The following environment variables are needed.
 |---|---|---|
 |`MONGODB_URI`|Address to mongo server|`mongodb://servername:27017` or `mongodb://username:password@hostname:port` or `mongodb+srv://` schema|
 |`SECRET_KEY`|Secret key for JWT tokens|`secret123`|
-
+`
 Alternatively, you can create a `.env` file and load it up with the environment variables.
 
 # Running with Go
